@@ -7,7 +7,7 @@ Your task is to create three buttons. The challenge is that, by clicking on any 
 
 ## Starter code
 
-Inside your `src/fontSize.html` file -> all the buttons + text is already defined and written for you. Even the styling part is done for this lab. So you don't need to worry about styling as well.
+Inside your `index.html` file -> all the buttons + text is already defined and written for you. Even the styling part is done for this lab. So you don't need to worry about styling as well.
 You just need to edit `src/app.js`, and complete the task.
 
 
